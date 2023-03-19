@@ -1,0 +1,9 @@
+require("../../../../node_modules/@syncfusion/ej2-base/styles/material.css");
+require("../../../../node_modules/@syncfusion/ej2-icons/styles/material.css");
+require("../../../../node_modules/@syncfusion/ej2-buttons/styles/material.css");
+require("../../../../node_modules/@syncfusion/ej2-splitbuttons/styles/material.css");
+require("../../../../node_modules/@syncfusion/ej2-inputs/styles/material.css");
+require("../../../../node_modules/@syncfusion/ej2-lists/styles/material.css");
+require("../../../../node_modules/@syncfusion/ej2-navigations/styles/material.css");
+require("../../../../node_modules/@syncfusion/ej2-popups/styles/material.css");
+require("../../../../node_modules/@syncfusion/ej2-richtexteditor/styles/material.css");
